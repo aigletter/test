@@ -1,7 +1,7 @@
 <?php 
 
-echo 'Hello world';
+echo 'Hello world<br>';
 
-echo "Blablabla";
+echo "Blablabla<br>";
 
-phpinfo();
+echo 'Feature<br>';

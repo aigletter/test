@@ -1,1 +1,5 @@
 .idea
+*.txt
+
+data/*
+!data/config.php
